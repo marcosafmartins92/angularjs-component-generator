@@ -1,8 +1,8 @@
 # angularjs-component-generator
 
-#Steps
-*Download the project
-*run command: node gencomponent.js
-*answer de question
-*move generated path with fiels 
-*rename your module
+## Steps
+* **Download the project** 
+* **Run command: node gencomponent.js** 
+* **Answer de question** 
+* **Move generated path with files** 
+* **Rename your module** 
